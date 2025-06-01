@@ -1,2 +1,2 @@
-# Exercicio02Exce-o
+# Exercicio02Exceções
 Exercício02 de exceções try-catch
